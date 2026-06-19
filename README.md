@@ -6,3 +6,5 @@ foodesc
 
 bar
 bardesc
+
+[dummy](https://ocre-307.github.io/dummy/)
