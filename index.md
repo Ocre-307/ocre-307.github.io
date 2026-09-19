@@ -7,4 +7,4 @@ foodesc
 bar
 bardesc
 
-[dummy](./foobar.md)
+[dummy](./foobar.html)
