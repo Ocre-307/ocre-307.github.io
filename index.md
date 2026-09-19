@@ -1,4 +1,4 @@
-## [About](https://ocre-307.github.io/about/)
+## [About](./about.md/)
 
 # Recent posts:
 foo
@@ -7,4 +7,4 @@ foodesc
 bar
 bardesc
 
-[dummy](https://ocre-307.github.io/dummy/)
+[dummy](./dummy.md)
