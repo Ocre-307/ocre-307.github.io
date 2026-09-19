@@ -2,9 +2,9 @@
 
 # Recent posts:
 foo
-foodesc
+   foodesc
 
 bar
-bardesc
+   bardesc
 
 [dummy](./posts/foobar.md)
