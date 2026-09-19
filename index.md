@@ -1,11 +1,11 @@
 ## [About](./about.md/)
 
 # Recent posts:
-#### foo
+### foo
 foodesc
 
-#### bar
+### bar
 bardesc
 
-#### [dummy](./posts/foobar.md)
+### [dummy](./posts/foobar.md)
 dummydesc
