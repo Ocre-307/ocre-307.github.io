@@ -7,4 +7,4 @@ foodesc
 bar
 bardesc
 
-[dummy](./_posts/dummy.md)
+[dummy](./dummy.md)
